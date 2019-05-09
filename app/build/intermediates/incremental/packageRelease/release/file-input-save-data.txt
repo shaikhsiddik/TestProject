@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Mar 05 16:02:24 IST 2019
+0.baseType=DIRECTORY
+0.base=E\:\\Projects\\bhaskar\\ClientApp\\ClientApp3\\app\\build\\intermediates\\transforms\\dex\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1

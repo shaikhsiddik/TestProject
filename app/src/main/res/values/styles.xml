@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="ToolbarTheme" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+
+        <item name="colorControlNormal">#F1C40F</item>
+        <item name="android:colorButtonNormal">#F1C40F</item>
+    </style>
+
+</resources>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.BlueshoreFinancial.clientapp3">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_white_dash"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo_white_dash"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.Widgets"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.Feeds"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.WidgetsWebView"
+            android:noHistory="true"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.KnowledgeActivity"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.Learn"
+            android:noHistory="true" />
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.Tips_Notification"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.Feeds_old"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.PortfolioWatch"
+            android:noHistory="true"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.Watchlist"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.AddSymbolActivity"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.AddSymbolWebViewActivity"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.OpenAccount"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.HistoricalData"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.EquityDerivative"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.LoginActivity"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.RegisterActivity"
+            android:label="@string/title_activity_register"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.Tips"
+            android:noHistory="true" />
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.Contact"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.Launcher"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.MyFirebaseInstanceIdService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.MyFirebaseMessagingService"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name="com.tradeschool.bhaskarsabnis.BlueshoreFinancial.MenuExtra">
+
+        </activity>
+    </application>
+
+</manifest>

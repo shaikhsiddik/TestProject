@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Projects\\bhaskar\\ClientApp\\ClientApp3\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Projects\\bhaskar\\ClientApp\\ClientApp3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Projects\\bhaskar\\ClientApp\\ClientApp3\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_launcher_round.png",
+        "source": "E:\\Projects\\bhaskar\\ClientApp\\ClientApp3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

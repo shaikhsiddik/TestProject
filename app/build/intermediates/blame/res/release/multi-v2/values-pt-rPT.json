@@ -1,0 +1,150 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Projects\\bhaskar\\ClientApp\\ClientApp3\\app\\build\\intermediates\\res\\merged\\release\\values-pt-rPT\\values-pt-rPT.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shreya\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\35d65dbddc93794444f5307b806d1a6e\\res\\values-pt-rPT\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "203",
+                        "endOffsets": "454"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1917",
+                        "endColumns": "203",
+                        "endOffsets": "2116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Shreya\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-15.0.0.aar\\50a04df68de785e5b1c7dd03310327d8\\res\\values-pt-rPT\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "209",
+                        "endColumns": "102",
+                        "endOffsets": "311"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2121",
+                        "endColumns": "106",
+                        "endOffsets": "2223"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Shreya\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\c226466582b145ba93d000c7a06bd979\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,752,836,917,1004,1111,1223,1325,1433,1540,1647,1818,1917",
+                        "endColumns": "119,105,106,88,100,123,83,80,86,106,111,101,107,106,106,170,98,84",
+                        "endOffsets": "220,326,433,522,623,747,831,912,999,1106,1218,1320,1428,1535,1642,1813,1912,1997"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,752,836,917,1004,1111,1223,1325,1433,1540,1647,1818,2228",
+                        "endColumns": "119,105,106,88,100,123,83,80,86,106,111,101,107,106,106,170,98,84",
+                        "endOffsets": "220,326,433,522,623,747,831,912,999,1106,1218,1320,1428,1535,1642,1813,1912,2308"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Shreya\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\32a45cfa6c2f38b600830117cbbfe730\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "2313",
+                        "endColumns": "100",
+                        "endOffsets": "2409"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Projects\\bhaskar\\ClientApp\\ClientApp3\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shreya\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\35d65dbddc93794444f5307b806d1a6e\\res\\values-pt-rPT\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "203",
+                        "endOffsets": "454"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1917",
+                        "endColumns": "203",
+                        "endOffsets": "2116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Shreya\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-15.0.0.aar\\50a04df68de785e5b1c7dd03310327d8\\res\\values-pt-rPT\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "209",
+                        "endColumns": "102",
+                        "endOffsets": "311"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2121",
+                        "endColumns": "106",
+                        "endOffsets": "2223"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Shreya\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\c226466582b145ba93d000c7a06bd979\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,752,836,917,1004,1111,1223,1325,1433,1540,1647,1818,1917",
+                        "endColumns": "119,105,106,88,100,123,83,80,86,106,111,101,107,106,106,170,98,84",
+                        "endOffsets": "220,326,433,522,623,747,831,912,999,1106,1218,1320,1428,1535,1642,1813,1912,1997"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,752,836,917,1004,1111,1223,1325,1433,1540,1647,1818,2228",
+                        "endColumns": "119,105,106,88,100,123,83,80,86,106,111,101,107,106,106,170,98,84",
+                        "endOffsets": "220,326,433,522,623,747,831,912,999,1106,1218,1320,1428,1535,1642,1813,1912,2308"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Shreya\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\32a45cfa6c2f38b600830117cbbfe730\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "2313",
+                        "endColumns": "100",
+                        "endOffsets": "2409"
+                    }
+                }
+            ]
+        }
+    ]
+}

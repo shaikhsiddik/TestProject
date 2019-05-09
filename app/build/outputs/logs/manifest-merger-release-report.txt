@@ -1,0 +1,508 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:2:1-120:12
+MERGED from [com.nbsp:library:1.8] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\library-1.8.aar\498042721caf54063309861f120fece0\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c82f6cd23e25ea2a95210ae843015433\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c226466582b145ba93d000c7a06bd979\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e30d4172d7859761293cfaa5b338ee22\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\50a04df68de785e5b1c7dd03310327d8\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\d5b550fcce38e6efcecee66e09452eb8\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5dadc8829dba28a0bcdcfb35d0cd843b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\bdf0f011635ab26fef31696786219190\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\4fb79d9bc822a19460835ce77bf34c33\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\35d65dbddc93794444f5307b806d1a6e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cdca774c105fcd6b5f7430caa1b954d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\503d435ce77a511b27f592a004e2b12e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\32d56497ce044c13a9dcae5bef1fa060\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\81f7c51ba8e5d939321fc048546d0b35\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:percent:27.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\percent-27.1.0.aar\f840b8ce6f18f4429aa008dca592d9e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\6d5724f1d931e07a93957d4d404c16da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\fb3c551356272c72a9ef91104710ac65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\72bb269c0d502c40980c0b4b4497f015\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4c2d41b5bab69e464b476689ce47cdc4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ab8a46a259b94b0c2951645f4fe1a4d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b99fc3476a9870d9a77242e603590266\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0711864cfd21226142895eb409eb2b15\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\1e85a2993079c32311c1334d92f4757f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\32a45cfa6c2f38b600830117cbbfe730\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.0.aar\f0fe60b1e0ee2e0d2b1527af90ba074f\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\890fd9bcc323ba31daa0e61cf8496863\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\08f5fb1ca3ad756c28d59daca809bb4d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1e1e180a5b5a329ec5e33e8d3771fdb1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7ab1b2d3cd27e7c72aacc938abfc6a34\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:2:1-120:12
+	package
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:3:5-55
+		INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:2:1-120:12
+		INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:2:1-120:12
+		INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:12:22-69
+application
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:14:5-118:19
+MERGED from [com.nbsp:library:1.8] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\library-1.8.aar\498042721caf54063309861f120fece0\AndroidManifest.xml:13:5-18:19
+MERGED from [com.nbsp:library:1.8] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\library-1.8.aar\498042721caf54063309861f120fece0\AndroidManifest.xml:13:5-18:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e30d4172d7859761293cfaa5b338ee22\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e30d4172d7859761293cfaa5b338ee22\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\50a04df68de785e5b1c7dd03310327d8\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\50a04df68de785e5b1c7dd03310327d8\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\d5b550fcce38e6efcecee66e09452eb8\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\d5b550fcce38e6efcecee66e09452eb8\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5dadc8829dba28a0bcdcfb35d0cd843b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5dadc8829dba28a0bcdcfb35d0cd843b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\bdf0f011635ab26fef31696786219190\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\bdf0f011635ab26fef31696786219190\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\4fb79d9bc822a19460835ce77bf34c33\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\4fb79d9bc822a19460835ce77bf34c33\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\35d65dbddc93794444f5307b806d1a6e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\35d65dbddc93794444f5307b806d1a6e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\81f7c51ba8e5d939321fc048546d0b35\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\81f7c51ba8e5d939321fc048546d0b35\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.0.aar\f0fe60b1e0ee2e0d2b1527af90ba074f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.0.aar\f0fe60b1e0ee2e0d2b1527af90ba074f\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:18:9-55
+	android:icon
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:20:9-59
+activity#com.tradeschool.bhaskarsabnis.clientapp3.MainActivity
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:21:9-23:52
+	android:screenOrientation
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:23:13-49
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:22:13-81
+activity#com.tradeschool.bhaskarsabnis.clientapp3.Widgets
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:24:9-27:52
+	android:screenOrientation
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:27:13-49
+	android:noHistory
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:25:13-76
+activity#com.tradeschool.bhaskarsabnis.clientapp3.Feeds
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:28:9-31:52
+	android:screenOrientation
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:31:13-49
+	android:noHistory
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:29:13-74
+activity#com.tradeschool.bhaskarsabnis.clientapp3.WidgetsWebView
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:32:9-35:53
+	android:screenOrientation
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:35:13-50
+	android:noHistory
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:33:13-83
+activity#com.tradeschool.bhaskarsabnis.clientapp3.KnowledgeActivity
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:36:9-39:52
+	android:screenOrientation
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:39:13-49
+	android:noHistory
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:37:13-86
+activity#com.tradeschool.bhaskarsabnis.clientapp3.Learn
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:40:9-42:40
+	android:noHistory
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:41:13-74
+activity#com.tradeschool.bhaskarsabnis.clientapp3.Tips_Notification
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:43:9-45:61
+	android:screenOrientation
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:45:13-49
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:44:13-86
+activity#com.tradeschool.bhaskarsabnis.clientapp3.Feeds_old
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:46:9-49:52
+	android:screenOrientation
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:49:13-49
+	android:noHistory
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:47:13-78
+activity#com.tradeschool.bhaskarsabnis.clientapp3.PortfolioWatch
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:50:9-53:53
+	android:screenOrientation
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:53:13-50
+	android:noHistory
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:51:13-83
+activity#com.tradeschool.bhaskarsabnis.clientapp3.Watchlist
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:54:9-57:52
+	android:screenOrientation
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:57:13-49
+	android:noHistory
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:56:13-37
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:55:13-78
+activity#com.tradeschool.bhaskarsabnis.clientapp3.AddSymbolActivity
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:58:9-61:52
+	android:screenOrientation
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:61:13-49
+	android:noHistory
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:59:13-86
+activity#com.tradeschool.bhaskarsabnis.clientapp3.AddSymbolWebViewActivity
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:62:9-65:52
+	android:screenOrientation
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:65:13-49
+	android:noHistory
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:63:13-93
+activity#com.tradeschool.bhaskarsabnis.clientapp3.OpenAccount
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:66:9-69:52
+	android:screenOrientation
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:69:13-49
+	android:noHistory
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:68:13-37
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:67:13-80
+activity#com.tradeschool.bhaskarsabnis.clientapp3.HistoricalData
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:70:9-73:52
+	android:screenOrientation
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:73:13-49
+	android:noHistory
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:72:13-37
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:71:13-83
+activity#com.tradeschool.bhaskarsabnis.clientapp3.EquityDerivative
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:74:9-77:52
+	android:screenOrientation
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:77:13-49
+	android:noHistory
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:76:13-37
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:75:13-85
+activity#com.tradeschool.bhaskarsabnis.clientapp3.LoginActivity
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:78:9-80:61
+	android:screenOrientation
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:80:13-49
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:79:13-82
+activity#com.tradeschool.bhaskarsabnis.clientapp3.RegisterActivity
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:81:9-85:52
+	android:screenOrientation
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:85:13-49
+	android:label
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:83:13-60
+	android:noHistory
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:84:13-37
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:82:13-85
+activity#com.tradeschool.bhaskarsabnis.clientapp3.Tips
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:86:9-88:40
+	android:noHistory
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:88:13-37
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:87:13-73
+activity#com.tradeschool.bhaskarsabnis.clientapp3.Contact
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:89:9-92:52
+	android:screenOrientation
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:92:13-49
+	android:noHistory
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:91:13-37
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:90:13-76
+activity#com.tradeschool.bhaskarsabnis.clientapp3.Launcher
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:93:9-101:20
+	android:noHistory
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:95:13-37
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:94:13-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:96:13-100:29
+action#android.intent.action.MAIN
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:97:17-69
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:97:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:99:17-77
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:99:27-74
+service#com.tradeschool.bhaskarsabnis.clientapp3.MyFirebaseInstanceIdService
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:103:9-107:19
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:103:18-101
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:104:13-106:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:105:17-80
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:105:25-77
+service#com.tradeschool.bhaskarsabnis.clientapp3.MyFirebaseMessagingService
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:108:9-115:19
+	android:enabled
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:110:13-35
+	android:exported
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:111:13-36
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:109:13-95
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:112:13-114:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:113:17-78
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:113:25-75
+activity#com.tradeschool.bhaskarsabnis.clientapp3.MenuExtra
+ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:117:9-96
+	android:name
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml:117:19-84
+uses-sdk
+INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml
+MERGED from [com.nbsp:library:1.8] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\library-1.8.aar\498042721caf54063309861f120fece0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.nbsp:library:1.8] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\library-1.8.aar\498042721caf54063309861f120fece0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c82f6cd23e25ea2a95210ae843015433\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c82f6cd23e25ea2a95210ae843015433\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c226466582b145ba93d000c7a06bd979\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c226466582b145ba93d000c7a06bd979\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e30d4172d7859761293cfaa5b338ee22\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e30d4172d7859761293cfaa5b338ee22\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\50a04df68de785e5b1c7dd03310327d8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\50a04df68de785e5b1c7dd03310327d8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\d5b550fcce38e6efcecee66e09452eb8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\d5b550fcce38e6efcecee66e09452eb8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5dadc8829dba28a0bcdcfb35d0cd843b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5dadc8829dba28a0bcdcfb35d0cd843b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\bdf0f011635ab26fef31696786219190\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\bdf0f011635ab26fef31696786219190\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\4fb79d9bc822a19460835ce77bf34c33\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\4fb79d9bc822a19460835ce77bf34c33\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\35d65dbddc93794444f5307b806d1a6e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\35d65dbddc93794444f5307b806d1a6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cdca774c105fcd6b5f7430caa1b954d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cdca774c105fcd6b5f7430caa1b954d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\503d435ce77a511b27f592a004e2b12e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\503d435ce77a511b27f592a004e2b12e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\32d56497ce044c13a9dcae5bef1fa060\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\32d56497ce044c13a9dcae5bef1fa060\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\81f7c51ba8e5d939321fc048546d0b35\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\81f7c51ba8e5d939321fc048546d0b35\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:percent:27.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\percent-27.1.0.aar\f840b8ce6f18f4429aa008dca592d9e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:27.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\percent-27.1.0.aar\f840b8ce6f18f4429aa008dca592d9e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\6d5724f1d931e07a93957d4d404c16da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\6d5724f1d931e07a93957d4d404c16da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\fb3c551356272c72a9ef91104710ac65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\fb3c551356272c72a9ef91104710ac65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\72bb269c0d502c40980c0b4b4497f015\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\72bb269c0d502c40980c0b4b4497f015\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4c2d41b5bab69e464b476689ce47cdc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4c2d41b5bab69e464b476689ce47cdc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ab8a46a259b94b0c2951645f4fe1a4d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ab8a46a259b94b0c2951645f4fe1a4d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b99fc3476a9870d9a77242e603590266\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b99fc3476a9870d9a77242e603590266\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0711864cfd21226142895eb409eb2b15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0711864cfd21226142895eb409eb2b15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\1e85a2993079c32311c1334d92f4757f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\1e85a2993079c32311c1334d92f4757f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\32a45cfa6c2f38b600830117cbbfe730\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\32a45cfa6c2f38b600830117cbbfe730\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.0.aar\f0fe60b1e0ee2e0d2b1527af90ba074f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.0.aar\f0fe60b1e0ee2e0d2b1527af90ba074f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\890fd9bcc323ba31daa0e61cf8496863\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\890fd9bcc323ba31daa0e61cf8496863\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\08f5fb1ca3ad756c28d59daca809bb4d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\08f5fb1ca3ad756c28d59daca809bb4d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1e1e180a5b5a329ec5e33e8d3771fdb1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1e1e180a5b5a329ec5e33e8d3771fdb1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7ab1b2d3cd27e7c72aacc938abfc6a34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7ab1b2d3cd27e7c72aacc938abfc6a34\AndroidManifest.xml:20:5-44
+INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\bhaskar\ClientApp\ClientApp3\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.nbsp:library:1.8] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\library-1.8.aar\498042721caf54063309861f120fece0\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from [com.nbsp:library:1.8] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\library-1.8.aar\498042721caf54063309861f120fece0\AndroidManifest.xml:11:22-77
+activity#com.nbsp.materialfilepicker.ui.FilePickerActivity
+ADDED from [com.nbsp:library:1.8] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\library-1.8.aar\498042721caf54063309861f120fece0\AndroidManifest.xml:14:9-17:20
+	android:theme
+		ADDED from [com.nbsp:library:1.8] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\library-1.8.aar\498042721caf54063309861f120fece0\AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from [com.nbsp:library:1.8] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\library-1.8.aar\498042721caf54063309861f120fece0\AndroidManifest.xml:15:13-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\50a04df68de785e5b1c7dd03310327d8\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\50a04df68de785e5b1c7dd03310327d8\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\50a04df68de785e5b1c7dd03310327d8\AndroidManifest.xml:29:13-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\8cb43852b1f56af04b1bc34618ea76bb\AndroidManifest.xml:36:13-84
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:29:9-63
+permission#com.tradeschool.bhaskarsabnis.clientapp3.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:32:22-76
+uses-permission#com.tradeschool.bhaskarsabnis.clientapp3.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:39:13-43:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.tradeschool.bhaskarsabnis.clientapp3
+ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:42:27-58
+category#com.tradeschool.bhaskarsabnis.clientapp3
+ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\3f3f6b2033d31f477271bcf47fceb50d\AndroidManifest.xml:51:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\d5b550fcce38e6efcecee66e09452eb8\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\d5b550fcce38e6efcecee66e09452eb8\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\d5b550fcce38e6efcecee66e09452eb8\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\d5b550fcce38e6efcecee66e09452eb8\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\d5b550fcce38e6efcecee66e09452eb8\AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\35d65dbddc93794444f5307b806d1a6e\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\35d65dbddc93794444f5307b806d1a6e\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\35d65dbddc93794444f5307b806d1a6e\AndroidManifest.xml:24:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\81f7c51ba8e5d939321fc048546d0b35\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\81f7c51ba8e5d939321fc048546d0b35\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\81f7c51ba8e5d939321fc048546d0b35\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Shreya\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\81f7c51ba8e5d939321fc048546d0b35\AndroidManifest.xml:9:13-64

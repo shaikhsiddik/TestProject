@@ -1,0 +1,150 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Projects\\bhaskar\\ClientApp\\ClientApp3\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pa\\values-pa.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shreya\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\c226466582b145ba93d000c7a06bd979\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,305,410,496,596,709,786,862,941,1042,1146,1243,1352,1451,1561,1720,1820",
+                        "endColumns": "102,96,104,85,99,112,76,75,78,100,103,96,108,98,109,158,99,79",
+                        "endOffsets": "203,300,405,491,591,704,781,857,936,1037,1141,1238,1347,1446,1556,1715,1815,1895"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,305,410,496,596,709,786,862,941,1042,1146,1243,1352,1451,1561,1720,2134",
+                        "endColumns": "102,96,104,85,99,112,76,75,78,100,103,96,108,98,109,158,99,79",
+                        "endOffsets": "203,300,405,491,591,704,781,857,936,1037,1141,1238,1347,1446,1556,1715,1815,2209"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Shreya\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-15.0.0.aar\\50a04df68de785e5b1c7dd03310327d8\\res\\values-pa\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "99",
+                        "endOffsets": "304"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2030",
+                        "endColumns": "103",
+                        "endOffsets": "2129"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Shreya\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\32a45cfa6c2f38b600830117cbbfe730\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "2214",
+                        "endColumns": "100",
+                        "endOffsets": "2310"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Shreya\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\35d65dbddc93794444f5307b806d1a6e\\res\\values-pa\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "209",
+                        "endOffsets": "456"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1820",
+                        "endColumns": "209",
+                        "endOffsets": "2025"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Projects\\bhaskar\\ClientApp\\ClientApp3\\app\\build\\intermediates\\res\\merged\\release\\values-pa\\values-pa.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shreya\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\c226466582b145ba93d000c7a06bd979\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,305,410,496,596,709,786,862,941,1042,1146,1243,1352,1451,1561,1720,1820",
+                        "endColumns": "102,96,104,85,99,112,76,75,78,100,103,96,108,98,109,158,99,79",
+                        "endOffsets": "203,300,405,491,591,704,781,857,936,1037,1141,1238,1347,1446,1556,1715,1815,1895"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,305,410,496,596,709,786,862,941,1042,1146,1243,1352,1451,1561,1720,2134",
+                        "endColumns": "102,96,104,85,99,112,76,75,78,100,103,96,108,98,109,158,99,79",
+                        "endOffsets": "203,300,405,491,591,704,781,857,936,1037,1141,1238,1347,1446,1556,1715,1815,2209"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Shreya\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-15.0.0.aar\\50a04df68de785e5b1c7dd03310327d8\\res\\values-pa\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "99",
+                        "endOffsets": "304"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2030",
+                        "endColumns": "103",
+                        "endOffsets": "2129"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Shreya\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\32a45cfa6c2f38b600830117cbbfe730\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "2214",
+                        "endColumns": "100",
+                        "endOffsets": "2310"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Shreya\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\35d65dbddc93794444f5307b806d1a6e\\res\\values-pa\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "209",
+                        "endOffsets": "456"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1820",
+                        "endColumns": "209",
+                        "endOffsets": "2025"
+                    }
+                }
+            ]
+        }
+    ]
+}

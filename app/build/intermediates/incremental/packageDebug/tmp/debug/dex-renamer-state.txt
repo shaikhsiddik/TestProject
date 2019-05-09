@@ -1,0 +1,4 @@
+#Thu May 09 14:36:42 IST 2019
+base.0=/Volumes/AB/tradeSchool/ClientApp3/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

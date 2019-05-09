@@ -1,0 +1,80 @@
+<android.support.constraint.ConstraintLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#ffffff" />
+        <RelativeLayout
+            android:id="@+id/bottom_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#05364c"
+            android:minHeight="20dp">
+            <ImageView
+                android:id="@+id/home_c"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/home_yellow" />
+            <ImageView
+                android:id="@+id/learn"
+                android:layout_width="40dp"
+                android:layout_height="34dp"
+                android:layout_marginLeft="16dp"
+                
+                android:layout_toRightOf="@id/home_c"
+                android:src="@drawable/learn_white" />
+
+            <ImageView
+                android:id="@+id/feeds"
+                android:layout_width="35dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="16dp"
+                android:layout_toRightOf="@id/learn"
+                android:src="@drawable/feeds_white" />
+            <ImageView
+                android:id="@+id/notification"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="16dp"
+                android:layout_toRightOf="@id/feeds"
+                android:src="@drawable/notification_white" />
+
+            <ImageView
+                android:id="@+id/contact"
+                android:layout_width="40dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="16dp"
+                android:layout_toRightOf="@id/notification"
+                android:src="@drawable/contact_white" />
+
+            <ImageView
+                android:id="@+id/logout"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="14dp"
+                android:layout_marginTop="1dp"
+                android:onClick="logout"
+                android:layout_toRightOf="@id/contact"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/logout_icon" />
+            <!--<ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/icons_feeds" />
+    -->
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

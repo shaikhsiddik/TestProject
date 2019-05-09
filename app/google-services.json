@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1014868859966",
+    "firebase_url": "https://blueshorefinancial-adf23.firebaseio.com",
+    "project_id": "blueshorefinancial-adf23",
+    "storage_bucket": "blueshorefinancial-adf23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014868859966:android:01a614427a2df24d",
+        "android_client_info": {
+          "package_name": "com.tradeschool.bhaskarsabnis.BlueshoreFinancial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014868859966-1u1kv068fo0emscsbb6s573p3lqu6dav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjEg2C34zA5xd21ECpfow3HQHD0PpNplE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014868859966-1u1kv068fo0emscsbb6s573p3lqu6dav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

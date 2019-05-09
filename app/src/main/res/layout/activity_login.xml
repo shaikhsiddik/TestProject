@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    tools:context="com.BlueshoreFinancial.clientapp3.LoginActivity">
+<!--
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:layout_gravity="left"
+        android:background="@drawable/logo_trade"
+        android:gravity="start"
+        android:orientation="horizontal">
+    </LinearLayout>-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        android:orientation="horizontal">
+        <ProgressBar
+            android:id="@+id/login_progress"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="160dp"
+            android:layout_marginTop="160dp"
+            android:layout_marginLeft="140dp"
+            android:visibility="gone" />
+
+        <ScrollView
+            android:id="@+id/login_form"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/cardview_light_background">
+            <LinearLayout
+                android:layout_gravity="top"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="0dp"
+                android:layout_marginTop="50dp"
+                android:paddingLeft="24dp"
+                android:paddingRight="24dp">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="24dp"
+                    android:gravity="center"
+                    android:text="SIGN IN"
+                    android:textColor="@color/cardview_dark_background"
+                    android:textColorLink="@color/cardview_dark_background"
+                    android:textSize="30dp" />
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:gravity="left"
+                    android:text="Email Id"
+                    android:textColor="@color/cardview_dark_background"
+                    android:textColorLink="@color/cardview_dark_background"
+                    android:textSize="12dp" />
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginBottom="8dp"
+                    android:textColorHint="@color/cardview_dark_background">
+
+                    <EditText
+                        android:id="@+id/email"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:background="@drawable/button_bg"
+                        android:inputType="text"
+                        android:padding="5dp"
+                        android:textColor="@color/cardview_dark_background"
+                        android:textColorHint="@color/cardview_dark_background"
+                        android:textColorLink="@color/cardview_dark_background" />
+                </android.support.design.widget.TextInputLayout>
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:gravity="left"
+                    android:text="Password"
+                    android:textColor="@color/cardview_dark_background"
+                    android:textColorLink="@color/cardview_dark_background"
+                    android:textSize="12dp" />
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginBottom="8dp"
+                    android:textColorHint="@color/cardview_dark_background">
+
+                    <EditText
+                        android:id="@+id/password"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:background="@drawable/button_bg"
+                        android:inputType="textPassword"
+                        android:padding="5dp"
+                        android:textColor="@color/cardview_dark_background"
+                        android:textColorHint="@color/cardview_dark_background"
+                        android:textColorLink="@color/cardview_dark_background" />
+                </android.support.design.widget.TextInputLayout>
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/email_sign_in_button"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorYellow"
+                    android:textColor="@color/cardview_light_background"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginBottom="24dp"
+                    android:padding="12dp"
+                    android:text="Login"/>
+
+                <TextView
+                    android:id="@+id/email_register_button"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="24dp"
+                    android:gravity="center"
+                    android:onClick="register"
+                    android:text="No account yet? Create one"
+                    android:textColor="@color/cardview_dark_background"
+                    android:textColorLink="@color/cardview_dark_background"
+                    android:textSize="16dip" />
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

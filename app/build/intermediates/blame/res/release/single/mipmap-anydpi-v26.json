@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Projects\\bhaskar\\ClientApp\\ClientApp3\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26\\ic_launcher_round.xml",
+        "source": "E:\\Projects\\bhaskar\\ClientApp\\ClientApp3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Projects\\bhaskar\\ClientApp\\ClientApp3\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26\\ic_launcher.xml",
+        "source": "E:\\Projects\\bhaskar\\ClientApp\\ClientApp3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]
